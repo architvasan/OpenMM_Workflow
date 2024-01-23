@@ -1,4 +1,0 @@
-Jobid: 2174321
-qsub -I -n 1 -t 01:00:00 -A datascience
-Thu Jun 15 21:33:05 2023 +0000 (UTC) submitted with cwd set to: /lus/grand/projects/datascience/avasan/FullWorkflow/Simulation/build
-jobid 2174321 submitted from terminal /dev/pts/36
